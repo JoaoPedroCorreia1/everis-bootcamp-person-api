@@ -10,7 +10,7 @@
       - [Single Person Test](https://github.com/JoaoPedroCorreia1/2021-2-dio-everis-person-api#--single-person-test)
       - [Multiple Person Test](https://github.com/JoaoPedroCorreia1/2021-2-dio-everis-person-api#--multiple-person-test)
 
-##REST API developed with Spring Boot, Maven and Java
+## REST API developed with Spring Boot, Maven and Java
 - Registers, Stores and Manages a database of Persons.
 
 ## Introduction
