@@ -29,7 +29,7 @@
 * Master: Main branch, connected on cloud with Heroku (created with bootcamp teacher)
 
 -My Additions:
-* Tests: API Automated Tests (created automated tests with REST-assured, more info on Test section)
+* Tests: API Automated Tests (Automated tests with REST-assured, more info on [Rest Assured API Tests](https://github.com/JoaoPedroCorreia1/2021-2-dio-everis-person-api#rest-assured-api-tests) section)
 
 to run with the terminal, execute:
 
