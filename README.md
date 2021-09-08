@@ -6,9 +6,9 @@
   - [HTTP Methods](https://github.com/JoaoPedroCorreia1/2021-2-dio-everis-person-api#http-methods)
 - [Rest Assured API Tests](https://github.com/JoaoPedroCorreia1/2021-2-dio-everis-person-api#rest-assured-api-tests)
     - [HTTP Methods Test](https://github.com/JoaoPedroCorreia1/2021-2-dio-everis-person-api#http-methods-test)
-      - [Random Person Creator](https://github.com/JoaoPedroCorreia1/2021-2-dio-everis-person-api#random-person-creator)
-      - [Single Person Test](https://github.com/JoaoPedroCorreia1/2021-2-dio-everis-person-api#single-person-test)
-      - [Multiple Person Test](https://github.com/JoaoPedroCorreia1/2021-2-dio-everis-person-api#multiple-person-test)
+      - [Random Person Creator](https://github.com/JoaoPedroCorreia1/2021-2-dio-everis-person-api#--random-person-creator)
+      - [Single Person Test](https://github.com/JoaoPedroCorreia1/2021-2-dio-everis-person-api#--single-person-test)
+      - [Multiple Person Test](https://github.com/JoaoPedroCorreia1/2021-2-dio-everis-person-api#--multiple-person-test)
 
 ##REST API developed with Spring Boot, Maven and Java
 - Registers, Stores and Manages a database of Persons.
