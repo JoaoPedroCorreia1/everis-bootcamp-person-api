@@ -4,6 +4,8 @@
   - [Database](https://github.com/JoaoPedroCorreia1/2021-2-dio-everis-person-api#database)  
   - [Branchs](https://github.com/JoaoPedroCorreia1/2021-2-dio-everis-person-api#branchs)
   - [HTTP Methods](https://github.com/JoaoPedroCorreia1/2021-2-dio-everis-person-api#http-methods)
+  - [Heroku](https://github.com/JoaoPedroCorreia1/2021-2-dio-everis-person-api#heroku)
+  - [Requirements](https://github.com/JoaoPedroCorreia1/2021-2-dio-everis-person-api#requirements)
 - [Rest Assured API Tests](https://github.com/JoaoPedroCorreia1/2021-2-dio-everis-person-api#rest-assured-api-tests)
     - [HTTP Methods Test](https://github.com/JoaoPedroCorreia1/2021-2-dio-everis-person-api#http-methods-test)
       - [Random Person Creator](https://github.com/JoaoPedroCorreia1/2021-2-dio-everis-person-api#--random-person-creator)
@@ -60,6 +62,15 @@ http://localhost:8080/api/v1/people/{id}
 Remove Person by Id
 (Remove)
 http://localhost:8080/api/v1/people/{id}
+```
+
+### Heroku
+- url: https://person-api-dio-bootcamp-sre-21.herokuapp.com
+
+```
+Get all Persons
+(GET)
+https://person-api-dio-bootcamp-sre-21.herokuapp.com/api/v1/people
 ```
 
 ### Requirements
