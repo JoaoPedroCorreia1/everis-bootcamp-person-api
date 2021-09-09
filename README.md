@@ -90,11 +90,11 @@ https://person-api-dio-bootcamp-sre-21.herokuapp.com/api/v1/people
 - check if phone is unique with a local database
 - names and other attributes stored on PersonsDb / PhonesDb
 
-![SinglePersonSuccessfulTest](https://drive.google.com/uc?export=view&id=1m6XBo0pZRC_Pa56H7WH65lE7rFFZV_aH)
-
 ### - Single Person Test
 
 - HTTP Test
+
+![SinglePersonSuccessfulTest](https://drive.google.com/uc?export=view&id=1m6XBo0pZRC_Pa56H7WH65lE7rFFZV_aH)
 
 ### - Multiple Person Test
 
